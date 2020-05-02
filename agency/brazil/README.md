@@ -21,5 +21,5 @@ Then, run `service apache2 start` and
 
 # Distribution and copyrights 
 
-![ANVISA](https://raw.githubusercontent.com/sandroacoelho/drugs/master/crawler/agency/brazil/ANVISA_AUTORIZACAO.png)
+![ANVISA](https://raw.githubusercontent.com/medicamentum/medicamentum-crawler/master/agency/brazil/ANVISA_AUTORIZACAO.png)
 
